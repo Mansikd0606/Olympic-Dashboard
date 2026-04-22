@@ -48,9 +48,9 @@ These measures were created using DAX to dynamically calculate medal counts base
 - Real-time measure calculations using DAX
   
 📊 Dashboard Preview :
+
 <img width="1416" height="781" alt="Olympic Dashboard" src="https://github.com/user-attachments/assets/96df9556-9692-4669-8d58-fa6b606deb4d" />
 
-	
 ✅ Conclusion
 
 This project demonstrates how Power BI can transform raw Olympic data into meaningful insights through interactive visualizations. By creating key measures and using slicers effectively, the dashboard allows users to explore medal trends across countries, sports, and years.
