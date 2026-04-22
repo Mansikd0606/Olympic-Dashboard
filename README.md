@@ -51,6 +51,20 @@ These measures were created using DAX to dynamically calculate medal counts base
 
 <img width="1416" height="781" alt="Olympic Dashboard" src="https://github.com/user-attachments/assets/96df9556-9692-4669-8d58-fa6b606deb4d" />
 
+ # DAX Measures
+ 
+ 1. Find out Total Medals.
+   - ```Total Medals = SUM(Olympic Athletes[Total Medals)```
+     
+ 2. Find out Total Gold Medals.
+   - ```Total Gold Medals = SUM(Olympic Athletes[Gold Medals])```
+
+ 3. Find out Total Silver Medals.
+   - ```Total Silver Medals = SUM(Olympic Athletes[Silver Medals])```
+
+ 4. Find out Total Bronze Medals.
+   - ```Total Bronze Medals = SUM(Olympic Athletes[Bronze Medals])```
+
 ✅ Conclusion
 
 This project demonstrates how Power BI can transform raw Olympic data into meaningful insights through interactive visualizations. By creating key measures and using slicers effectively, the dashboard allows users to explore medal trends across countries, sports, and years.
